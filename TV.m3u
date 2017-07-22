@@ -1,1 +1,4 @@
-#EXTINF:-1,Kuriakos TV http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1728.ts
+#EXTM3U
+
+#EXTINF:-1, Kuriakos TV 
+http://195.22.11.11:1935/ktv/ktv1/chunklist_w1810116421.m3u8
