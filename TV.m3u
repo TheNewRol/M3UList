@@ -4,4 +4,22 @@
 http://195.22.11.11:1935/ktv/ktv1/chunklist_w1810116421.m3u8
 
 #EXTINF:-2, Kuriakos Music 
-http://csvl02.manasat.com:1935/kmusic/kmusic2/media_w1136399642_13050.ts
+http://195.22.19.182:1935/kmusic/kmusic2/chunklist_w1136399642.m3u8
+
+#EXTINF:-3, Kuriakos Kids 
+http://195.22.19.182:1935/kkids/kkids2/chunklist_w975643371.m3u8
+
+#EXTINF:-4, Tv Mana - 1
+http://195.22.11.11:1935/tvmana/tvmana2/chunklist_w1194053328.m3u8
+
+#EXTINF:-5, Tv Mana Cordova
+http://195.22.19.186:1935/tvar/tvmanaar2/chunklist_w1572216541.m3u8
+
+#EXTINF:-6, Igreja Online Español
+http://195.22.19.182:1935/tvesp/tvesp2/chunklist_w2052396884.m3u8
+
+#EXTINF:-7, Igreja Online Portugues
+http://195.22.11.11:1935/igronline/igronline3/chunklist_w337024038.m3u8
+
+#EXTINF:-8, Kuriakos Cine
+http://195.22.19.182:1935/kcine/kcine2/chunklist_w1592613133.m3u8
