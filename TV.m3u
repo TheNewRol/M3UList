@@ -16,7 +16,9 @@ http://195.22.11.11:1935/tvmana/tvmana2/chunklist_w1194053328.m3u8
 http://195.22.19.186:1935/tvar/tvmanaar2/chunklist_w1572216541.m3u8
 
 #EXTINF:-6, Igreja Online Español
-http://195.22.19.182:1935/tvesp/tvesp2/chunklist_w2052396884.m3u8
+http://csvl02.manasat.com:1935/iglesia-online/Espanhol3/chunklist_w199597688.m3u8
+
+
 
 #EXTINF:-7, Igreja Online Portugues
 http://195.22.11.11:1935/igronline/igronline3/chunklist_w337024038.m3u8
