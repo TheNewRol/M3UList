@@ -28,3 +28,6 @@ http://195.22.19.182:1935/kcine/kcine2/chunklist_w1592613133.m3u8
 
 #EXTINF:-9, Igreja Online Español
 http://c2.manasat.com:1935/iglesia-online/espanhol2/chunklist_w1429052350.m3u8
+
+#EXTINF:-9, Flaix FM
+http://flaixfmmob.streaming-pro.com:8002/;
