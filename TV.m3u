@@ -18,8 +18,6 @@ http://195.22.19.186:1935/tvar/tvmanaar2/chunklist_w1572216541.m3u8
 #EXTINF:-6, Igreja Online Español
 http://csvl02.manasat.com:1935/iglesia-online/Espanhol3/chunklist_w199597688.m3u8
 
-
-
 #EXTINF:-7, Igreja Online Portugues
 http://195.22.11.11:1935/igronline/igronline3/chunklist_w337024038.m3u8
 
@@ -33,4 +31,4 @@ http://c2.manasat.com:1935/iglesia-online/espanhol2/chunklist_w1429052350.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 #EXTINF:-11, Disney Channel
-https://eslivestream-lh.akamaihd.net/i/live_1@318671/index_6_av-p.m3u8
+https://eslivestream-lh.akamaihd.net/i/live_1@318671/index_6_av-p.m3u8?sd=10&rebase=on&id=AgAlh1UTXHrx3VzdY13+XtT%2fW1AAxHcZQ3E2KdmoOpo0+9pdS2PWdM5PBX7ia0VL70b7NJFEk7CS6Q%3d%3d&hdntl=exp=1566912220~acl=%2fi%2flive_1%40318671*~data=hdntl~hmac=2f2c3237e9f456fd14223923df1239e0d2366babc7e467c3c92c5eff9fd430c0
