@@ -31,3 +31,6 @@ http://c2.manasat.com:1935/iglesia-online/espanhol2/chunklist_w1429052350.m3u8
 
 #EXTINF:-10, Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-11, Disney Channel
+https://eslivestream-lh.akamaihd.net/i/live_1@318671/index_6_av-p.m3u8
