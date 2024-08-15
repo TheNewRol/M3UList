@@ -1,13 +1,25 @@
 #EXTM3U
-
-#EXTINF:-1, Kuriakos TV 
+#EXTINF:-1 tvg-logo="http://www.kuriakos-tv.com/img/logo@2x.png" group-title="",Kuriakos TV
 https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w197176731_b3048000_sleng.m3u8
-
-#EXTINF:-2, Kuriakos Music 
+#EXTINF:-1 tvg-logo="https://kuriakosmusic.com/wp-content/uploads/2022/11/263x196_v1.png" group-title="",Kuriakos Music
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1968754930_b1548000_sleng.m3u8
-
-#EXTINF:-4, Tv Mana - 1
-https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w1601999444_b413000_sleng.m3u8
-
-#EXTINF:-7, Igreja Online Portugues
+#EXTINF:-1 tvg-logo="https://www.igreja-online.tv/img/logo_pt.png?p=123" group-title="",Igreja Online Español
+https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/chunklist_w551762592_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.igreja-online.tv/img/logo_pt.png?p=123" group-title="",Igreja Online Portugues
 https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/chunklist_w197379449_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://tvmana-espanhol.ar/wp-content/uploads/2023/05/Logo_Mana_ESP-copia-2048x658-1-1024x329.png" group-title="",Tv Mana Español
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/chunklist_w1639970505_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://tvmana1.com/wp-content/uploads/2023/05/logo_tv_mana_1-1.png" group-title="",Tv Mana - 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w1543518728_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://tvmana2.com/wp-content/uploads/2023/05/LOGO_TV_MANA2.png" group-title="",Tv Mana - 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w1058629122_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/LOGO_TV_MANA_BRASIL_V4-396x108-1.png" group-title="",Tv Mana Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w1929277567_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg" group-title="",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w602244023_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://lutar-ate-vencer.com/wp-content/uploads/2023/05/topo-1536x160.jpg" group-title="",Lutar Até Vencer
+https://w1.manasat.com/lutar-ate-vencer/smil:lutar-ate-vencer.smil/chunklist_w1652989669_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="",TV KKTV Angola
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w2041741075_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://kuriakos-cine.com/wp-content/uploads/2022/11/Logo_cine.png" group-title="",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w916783367_b413000_sleng.m3u8
